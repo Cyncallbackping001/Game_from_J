@@ -23,7 +23,7 @@ def check(password):
         st.markdown(
             "<h1 style='text-align: center; color: yellow;'>Am I dreaming or did you do something not useless for once?</h1>",unsafe_allow_html=True)
         st.markdown("<h1 style='text-align: center; color: yellow;'>Equity partner</h1>", unsafe_allow_html=True)
-        #st.image("images/SDJ.png")
+        st.image("images/SDJ.png")
 
 st.markdown("<h1 style='text-align: center; color: yellow;'>Password game from J</h1>",unsafe_allow_html=True)
 st.subheader("J want to play with you >:D")
